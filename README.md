@@ -7,6 +7,8 @@
 <br>📚В настоящее время являюсь студентом <a href='https://practicum.yandex.ru'>Яндекс.Практикум</a>
 <br>📫Как со мной связаться: <a href="mailto:nekitcudder@gmail.com">nekitcudder@gmail.com</a>
 </h4>
+<br>
+<br>
 
 <h2 align='center'>🌌Контакты🌌</h2>
 <div align='center'>
@@ -14,6 +16,8 @@
 <a href="https://www.instagram.com/nekitcudder/"><img src="https://img.shields.io/badge/instagram-%23483D8B.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
 <a href="https://sptfy.com/nekitcudder"><img src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>
 </div>
+<br>
+<br>
 
 <h2 align='center'>🪐Мой стек технологий🪐</h2>
 <div align='center'>
@@ -26,6 +30,8 @@
 <a href="#"><img src="https://img.shields.io/badge/git-%23228B22.svg?&style=for-the-badge&logo=git&logoColor=white" height=30></a>
 <a href="#"><img src="https://img.shields.io/badge/nodejs-%23FFA500.svg?&style=for-the-badge&logo=Node.js&logoColor=black" height=30></a>
 </div>
+<br>
+<br>
 
 <h2 align='center'>☄️Статистика☄️</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,5 +40,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=nekitcudder&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
-
 
